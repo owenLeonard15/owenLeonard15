@@ -1,4 +1,4 @@
-### Hi there, I'm Owen 👋
+### 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=owenLeonard15&theme=dark" />
 
