@@ -1,6 +1,6 @@
 ### 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=owenLeonard15&theme=dark" />
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=owenLeonard15&theme=dark" /> -->
 
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark" />
 
